@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "Дрянные девчонки",
+    "type": "фильм",
+    "genre": "комедия",
+    "mood": "лёгкое",
+    "duration": 97,
+    "company": "с друзьями",
+    "age_rating": 16
+  },
+  {
+    "id": 2,
+    "title": "Интерстеллар",
+    "type": "фильм",
+    "genre": "фантастика",
+    "mood": "серьёзное",
+    "duration": 169,
+    "company": "одному",
+    "age_rating": 16
+  },
+  {
+    "id": 3,
+    "title": "Друзья",
+    "type": "сериал",
+    "genre": "комедия",
+    "mood": "лёгкое",
+    "duration": 22,
+    "company": "с друзьями",
+    "age_rating": 16
+  },
+  {
+    "id": 4,
+    "title": "Барби",
+    "type": "фильм",
+    "genre": "комедия",
+    "mood": "весёлое",
+    "duration": 114,
+    "company": "с друзьями",
+    "age_rating": 12
+  },
+  {
+    "id": 5,
+    "title": "Начало",
+    "type": "фильм",
+    "genre": "фантастика",
+    "mood": "серьёзное",
+    "duration": 148,
+    "company": "одному",
+    "age_rating": 16
+  },
+  {
+    "id": 6,
+    "title": "Очень странные дела",
+    "type": "сериал",
+    "genre": "фантастика",
+    "mood": "напряжённое",
+    "duration": 50,
+    "company": "с друзьями",
+    "age_rating": 16
+  },
+  {
+    "id": 7,
+    "title": "1+1",
+    "type": "фильм",
+    "genre": "комедия",
+    "mood": "лёгкое",
+    "duration": 112,
+    "company": "с друзьями",
+    "age_rating": 16
+  },
+  {
+    "id": 8,
+    "title": "Дневник памяти",
+    "type": "фильм",
+    "genre": "мелодрама",
+    "mood": "серьёзное",
+    "duration": 123,
+    "company": "одному",
+    "age_rating": 16
+  },
+  {
+    "id": 9,
+    "title": "Шерлок",
+    "type": "сериал",
+    "genre": "драма",
+    "mood": "напряжённое",
+    "duration": 90,
+    "company": "одному",
+    "age_rating": 16
+  },
+  {
+    "id": 10,
+    "title": "Отпуск по обмену",
+    "type": "фильм",
+    "genre": "мелодрама",
+    "mood": "лёгкое",
+    "duration": 136,
+    "company": "с друзьями",
+    "age_rating": 12
+  },
+  {
+    "id": 11,
+    "title": "Офис",
+    "type": "сериал",
+    "genre": "комедия",
+    "mood": "весёлое",
+    "duration": 22,
+    "company": "с друзьями",
+    "age_rating": 16
+  },
+  {
+    "id": 12,
+    "title": "Остров проклятых",
+    "type": "фильм",
+    "genre": "триллер",
+    "mood": "напряжённое",
+    "duration": 138,
+    "company": "одному",
+    "age_rating": 18
+  },
+  {
+    "id": 13,
+    "title": "Чёрное зеркало",
+    "type": "сериал",
+    "genre": "триллер",
+    "mood": "серьёзное",
+    "duration": 55,
+    "company": "одному",
+    "age_rating": 18
+  },
+  {
+    "id": 14,
+    "title": "Ла-Ла Ленд",
+    "type": "фильм",
+    "genre": "мелодрама",
+    "mood": "лёгкое",
+    "duration": 128,
+    "company": "одному",
+    "age_rating": 12
+  },
+  {
+    "id": 15,
+    "title": "Как я встретил вашу маму",
+    "type": "сериал",
+    "genre": "комедия",
+    "mood": "весёлое",
+    "duration": 22,
+    "company": "с друзьями",
+    "age_rating": 16
+  },
+  {
+    "id": 16,
+    "title": "Марсианин",
+    "type": "фильм",
+    "genre": "фантастика",
+    "mood": "лёгкое",
+    "duration": 144,
+    "company": "одному",
+    "age_rating": 16
+  },
+  {
+    "id": 17,
+    "title": "Теория большого взрыва",
+    "type": "сериал",
+    "genre": "комедия",
+    "mood": "лёгкое",
+    "duration": 22,
+    "company": "с друзьями",
+    "age_rating": 16
+  },
+  {
+    "id": 18,
+    "title": "Дюна",
+    "type": "фильм",
+    "genre": "фантастика",
+    "mood": "серьёзное",
+    "duration": 155,
+    "company": "одному",
+    "age_rating": 16
+  },
+  {
+    "id": 19,
+    "title": "Милые обманщицы",
+    "type": "сериал",
+    "genre": "драма",
+    "mood": "напряжённое",
+    "duration": 44,
+    "company": "с друзьями",
+    "age_rating": 16
+  },
+  {
+    "id": 20,
+    "title": "Достать ножи",
+    "type": "фильм",
+    "genre": "триллер",
+    "mood": "лёгкое",
+    "duration": 130,
+    "company": "с друзьями",
+    "age_rating": 16
+  },
+  {
+    "id": 21,
+    "title": "Уэнсдэй",
+    "type": "сериал",
+    "genre": "комедия",
+    "mood": "лёгкое",
+    "duration": 50,
+    "company": "с друзьями",
+    "age_rating": 16
+  },
+  {
+    "id": 22,
+    "title": "Исчезнувшая",
+    "type": "фильм",
+    "genre": "триллер",
+    "mood": "напряжённое",
+    "duration": 149,
+    "company": "одному",
+    "age_rating": 18
+  },
+  {
+    "id": 23,
+    "title": "Сплетница",
+    "type": "сериал",
+    "genre": "драма",
+    "mood": "лёгкое",
+    "duration": 42,
+    "company": "с друзьями",
+    "age_rating": 16
+  },
+  {
+    "id": 24,
+    "title": "До встречи с тобой",
+    "type": "фильм",
+    "genre": "мелодрама",
+    "mood": "серьёзное",
+    "duration": 110,
+    "company": "одному",
+    "age_rating": 16
+  },
+  {
+    "id": 25,
+    "title": "Бриджертоны",
+    "type": "сериал",
+    "genre": "мелодрама",
+    "mood": "лёгкое",
+    "duration": 60,
+    "company": "с друзьями",
+    "age_rating": 18
+  },
+  {
+    "id": 26,
+    "title": "Мы — Миллеры",
+    "type": "фильм",
+    "genre": "комедия",
+    "mood": "весёлое",
+    "duration": 110,
+    "company": "с друзьями",
+    "age_rating": 18
+  },
+  {
+    "id": 27,
+    "title": "Тьма",
+    "type": "сериал",
+    "genre": "фантастика",
+    "mood": "серьёзное",
+    "duration": 55,
+    "company": "одному",
+    "age_rating": 18
+  },
+  {
+    "id": 28,
+    "title": "Прежде чем я усну",
+    "type": "фильм",
+    "genre": "триллер",
+    "mood": "напряжённое",
+    "duration": 92,
+    "company": "одному",
+    "age_rating": 16
+  },
+  {
+    "id": 29,
+    "title": "Эмили в Париже",
+    "type": "сериал",
+    "genre": "комедия",
+    "mood": "лёгкое",
+    "duration": 30,
+    "company": "с друзьями",
+    "age_rating": 16
+  },
+  {
+    "id": 30,
+    "title": "Виноваты звёзды",
+    "type": "фильм",
+    "genre": "мелодрама",
+    "mood": "серьёзное",
+    "duration": 126,
+    "company": "одному",
+    "age_rating": 12
+  }
+]

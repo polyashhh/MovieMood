@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MovieMood</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="topbar">
+        <span>КИНО / СЕРИАЛЫ / НАСТРОЕНИЕ</span>
+        <span>[ 01 ]</span>
+    </header>
+    <main>
+        <section class="hero">
+            <div class="hero-paper">
+                <p class="hero-label">ПОДБОР НА ВЕЧЕР</p>
+                <h1>MovieMood</h1>
+                <p class="hero-title">
+                    Что посмотреть сегодня?
+                </p>
+                <p class="hero-description">
+                    Выбери настроение, формат и компанию,
+                    а MovieMood подберёт подходящий фильм или сериал
+                </p>
+                <div class="hero-tag">
+                    ТВОЁ КИНО · ТВОЁ НАСТРОЕНИЕ
+                </div>
+            </div>
+        </section>
+        <section class="selection-section">
+            <div class="section-head">
+                <span>ПАРАМЕТРЫ ПРОСМОТРА</span>
+                <span>[ 02 ]</span>
+            </div>
+            <div class="form-layout">
+                <div class="form-intro">
+                    <p class="little-caption">
+                        MOVIEMOOD / SELECT
+                    </p>
+                    <h2>
+                        Настрой<br>
+                        свой вечер
+                    </h2>
+                    <p>
+                        Выбери нужные параметры
+                        Если какой-то критерий не важен,
+                        его можно оставить пустым
+                    </p>
+                </div>
+                <div class="card">
+                    <p class="form-number">
+                        АНКЕТА №01
+                    </p>
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label for="type">Формат</label>
+                            <select id="type">
+                                <option value="">Не важно</option>
+                                <option value="фильм">Фильм</option>
+                                <option value="сериал">Сериал</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="genre">Жанр</label>
+                            <select id="genre">
+                                <option value="">Не важно</option>
+                                <option value="комедия">Комедия</option>
+                                <option value="фантастика">Фантастика</option>
+                                <option value="драма">Драма</option>
+                                <option value="триллер">Триллер</option>
+                                <option value="мелодрама">Мелодрама</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="mood">Настроение</label>
+                            <select id="mood">
+                                <option value="">Не важно</option>
+                                <option value="лёгкое">Легкое</option>
+                                <option value="весёлое">Веселое</option>
+                                <option value="серьёзное">Серьезное</option>
+                                <option value="напряжённое">Напряженное</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="duration">Длительность</label>
+                            <select id="duration">
+                                <option value="0">Не важно</option>
+                                <option value="60">До 1 часа</option>
+                                <option value="90">До 1,5 часов</option>
+                                <option value="120">До 2 часов</option>
+                                <option value="180">До 3 часов</option>
+                            </select>
+                        </div>
+                        <div class="form-group full-width">
+                            <label for="company">
+                                С кем смотрим?
+                            </label>
+                            <select id="company">
+                                <option value="">Не важно</option>
+                                <option value="одному">Одному</option>
+                                <option value="с друзьями">С друзьями</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="buttons">
+                        <button id="findButton">
+                            Найти варианты
+                        </button>
+                        <button id="randomButton">
+                            Выбрать за меня
+                        </button>
+                    </div>
+                    <p id="message"></p>
+                </div>
+            </div>
+        </section>
+        <section id="resultsSection" class="results hidden">
+            <div class="section-head">
+                <span>РЕКОМЕНДАЦИИ</span>
+                <span>[ 03 ]</span>
+            </div>
+            <div class="results-title">
+                <div>
+                    <p class="little-caption">
+                        MOVIEMOOD / FOUND
+                    </p>
+                    <h2>
+                        Тебе может<br>
+                        понравиться
+                    </h2>
+                </div>
+                <div class="results-note">
+                    подбор по твоим параметрам
+                </div>
+            </div>
+            <div id="resultsContainer"></div>
+        </section>
+    </main>
+    <footer>
+        <span>MovieMood</span>
+        <span>Проект на Go</span>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
